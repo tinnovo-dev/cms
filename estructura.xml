@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html lang="ca">
+
+  <head>
+    <title>aixeca't</title>
+    <description>Blog de benestar i hàbits saludables</description>
+    <favicon ico="/favicon.ico" png="/img/favicon.png"/>
+    <fonts>
+      <font familia="Arizonia" src="/fonts/Arizonia-Regular.ttf"/>
+      <font familia="Lato" google="true" pesos="300,400"/>
+    </fonts>
+    <analytics idsite="2" url="https://analytics.tinnovo.com/"/>
+  </head>
+
+  <body background="#3A5070">
+    <header>
+      <titulo font="Arizonia" color="#f0f0f0">aixeca't</titulo>
+      <imagen src="/img/mascotes_transp.png" alt="aixeca't"/>
+      <eslogan font="Arizonia" color="#ccd6e0">… això sí, sense pressa</eslogan>
+      <subtexto color="#aabbc8">Existeixo gràcies a Claude</subtexto>
+    </header>
+    <main/>
+  </body>
+
+  <footer color="#7a99b0">
+    <copyright>2026 aixeca't</copyright>
+    <links>
+      <link href="https://opensource.org" titulo="Open Source Initiative"/>
+      <link href="https://httpd.apache.org" titulo="Apache"/>
+      <link href="https://www.w3.org/Style/CSS/" titulo="CSS3"/>
+      <link href="https://developer.mozilla.org" titulo="JavaScript"/>
+    </links>
+  </footer>
+
+</html>
